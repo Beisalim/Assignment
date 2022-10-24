@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+  }
+  body{background-color:#b8d5d3;}
+  
+  fieldset {
+  margin:200em 0;
+  padding:3em 3em;
+  border: solid 1px #000000;
+  border-radius: 10px;
+  min-width:200px;
+  }
+  
+  legend{
+  margin: auto;
+  padding: 0.5em;
+  color:#999;
+  }
+  
+  div {
+  display: block;
+  margin-top: 10px;
+  }
+  
+  input{
+  padding: 0.25em;
+  border:1px solid #999;
+  
+  }
+  
+  fieldset{
+    margin: auto;
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
